@@ -1,3 +1,5 @@
+See /screenshots folder for pics of Pong game. See /gosu folder for space invaders-like Gosu game, with screenshots.
+
 This weekend (April 14, 2013), I spent hours creating this Pong game in Ruby with the Rubygame API (http://rubygame.org/) and learning about video game programming, with this tutorial: Making games with Ruby:
 http://devel.manwithcode.com/making-games-with-ruby.html. Unfortunately, the sound part of Rubygame does not work: http://devel.manwithcode.com/making-games-with-ruby.html#8
 

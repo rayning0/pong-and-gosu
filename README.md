@@ -10,4 +10,4 @@ Finally giving up on getting sound to work with Rubygame, I switched to Ruby-SDL
 I also created a very primitive "space invader"-like game with Gosu (http://www.libgosu.org/) a more primitive Ruby game development API than Rubygame. I went through this whole tutorial: https://sites.google.com/a/ruby4kids.com/gosu/home
 Also: http://ruby4kids.com/ruby4kids/public/web_page/14
 
-Part of the problem is these game libraries have not been updated for years, so probably something is obsolete or incompatible with my newer software and Mac. We need an updated Ruby game development API. Plus the documentation for SDL Mixer for C code and written in Sanskit for all I care. 
+Part of the problem is these game libraries have not been updated for years, so probably something is obsolete or incompatible with my newer software and Mac. We need an updated Ruby game development API. Plus the documentation for SDL Mixer for C code is written in Sanskit for all I care. 
